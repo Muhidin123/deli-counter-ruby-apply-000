@@ -21,5 +21,4 @@ end
 
 def now_serving(katz_deli)
   if katz_deli.empty?
-  katz_deli.empty?
-end
+    puts ""
